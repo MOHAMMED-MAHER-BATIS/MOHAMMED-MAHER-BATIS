@@ -1,5 +1,5 @@
-<h1 align="center">Welcome 👋, I'm Mohammed</h1>
-<h3 align="center">Final Year Computer Science Student 🎓 | Future Software Engineer 💻</h3>
+<h1>Welcome 👋, I'm Mohammed</h1>
+<h3>Final Year Computer Science Student 🎓 | Future Software Engineer 💻</h3>
 
 - 🌱 I’m currently learning **Backend Node.js & Express.js**
 
