@@ -7,7 +7,7 @@
   <a href="https://www.linkedin.com/in/mohammed-batis/" target="_blank">LinkedIn</a>
   <br> 
   <a href="mailto:mohammed.batis.dev@gmail.com">mohammed.batis.dev@gmail.com</a>
-</p>>
+</p>
 
 <h3 align="left">Skills:</h3>
 <p align="left">
