@@ -4,10 +4,10 @@
 - 🌱 I’m currently learning **Backend Node.js & Express.js**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/mohammed-batis/" target="blank"> Linkedin
-</a>
-<br> <a href="mohammed.batis.dev@gmail.com">mohammed.batis.dev@gmail.com</a>
-</p>
+  <a href="https://www.linkedin.com/in/mohammed-batis/" target="_blank">LinkedIn</a>
+  <br> 
+  <a href="mailto:mohammed.batis.dev@gmail.com">mohammed.batis.dev@gmail.com</a>
+</p>>
 
 <h3 align="left">Skills:</h3>
 <p align="left">
