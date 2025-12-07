@@ -6,7 +6,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/mohammed-batis/" target="blank"> Linkedin
 </a>
-<p>mohammed.batis.dev@gmail.com</p>
+<a>mohammed.batis.dev@gmail.com</a>
 </p>
 
 <h3 align="left">Skills:</h3>
