@@ -1,7 +1,9 @@
 <h1>Welcome 👋, I'm Mohammed</h1>
 <h3>Final Year Computer Science Student 🎓 | Future Software Engineer 💻</h3>
 - 🌱 I’m currently learning **Backend Node.js & Express.js**
+
 - 📫 How to reach me **mohammed.batis.dev@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/mohammed-batis/" target="blank">
