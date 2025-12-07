@@ -24,7 +24,7 @@
    - 
   <b>MongoDB</b> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="25" height="25" style="vertical-align:middle;"/>
    - 
-  <b>SQL</b> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="25" height="25" style="vertical-align:middle;"/>
+  <br> <b>SQL</b> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="25" height="25" style="vertical-align:middle;"/>
    - 
   <b>Node.js</b> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="25" height="25" style="vertical-align:middle;"/> 
    - 
