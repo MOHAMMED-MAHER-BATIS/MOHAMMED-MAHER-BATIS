@@ -1,14 +1,15 @@
 <h1>Welcome 👋, I'm Mohammed</h1>
 <h3>Final Year Computer Science Student 🎓 | Future Software Engineer 💻</h3>
-
+---
 - 🌱 I’m currently learning **Backend Node.js & Express.js**
+---
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/mohammed-batis/" target="_blank">LinkedIn</a>
   <br> 
   <a href="mailto:mohammed.batis.dev@gmail.com">mohammed.batis.dev@gmail.com</a>
 </p>
-
+---
 <h3 align="left">Skills:</h3>
 <p align="left">
   <b>React.js</b> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" style="vertical-align:middle;"/> 
