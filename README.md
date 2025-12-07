@@ -11,12 +11,6 @@
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
 </a>
 </p>
-<h3 align="left">Languages and Tools:</h3>
-<p>React.js</p>
-<p>Javascript</p>
-<p>Java</p>
-<p>Python</p>
-<p>MongoDB</p>
-<p>Node.js</p>
-<p>Express</p>
+<h3 align="left">Skills:</h3>
+<p>React.js - Javascript - Java - Python - MongoDB - SQL - Node.js - Express - Object-oriented programming</p>
 </p>
