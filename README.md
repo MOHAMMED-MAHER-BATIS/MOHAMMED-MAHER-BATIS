@@ -2,7 +2,7 @@
 <h3>Final Year Computer Science Student 🎓 | Future Software Engineer 💻</h3>
 
 ---
-- I am aspired to apply my academic knowledge to real-world projects and contribute to a dynamic technical team.
+- I am inspired to apply my academic knowledge to real-world projects and contribute to a dynamic technical team.
 
 - Just finished learn **React** & I'm currently learning **Backend Node.js & Express.js** 
 ---
